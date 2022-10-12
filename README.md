@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deepika-Chavan
 - 👀 I’m research scholar
-- 🌱 I’m currently working on NILM with low frequency dataset in Indian context
+- 🌱 currently working on NILM with low frequency dataset in Indian context
 - 📫 How to reach me ... chavandeepika24@gmail.com
 - Publications to cite
 - 1.   IEDL: Indian Energy Dataset with Low frequency for NILM  
